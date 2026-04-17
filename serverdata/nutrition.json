@@ -1,0 +1,23 @@
+{
+  "nutrition": [
+    {
+      "id": "1",
+      "foodName": "Apple",
+      "calories": 95,
+      "protein": 0.5
+    },
+    {
+      "id": "2",
+      "foodName": "Boiled Egg",
+      "calories": 78,
+      "protein": 6
+    },
+    {
+      "foodName": "Banana",
+      "calories": 78,
+      "protein": 98,
+      "id": "QMN425THZMo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

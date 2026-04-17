@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "12",
+      "url": "./src/assets/images/tshirts.jpg",
+      "name": "",
+      "category": "Clothing",
+      "price": 333,
+      "description": "tshirts"
+    },
+    {
+      "id": "gZ0K1LcTWAQ",
+      "url": "./assets/images/sUMAIR-IM.jpeg",
+      "name": "",
+      "description": "Test Product",
+      "alt": "",
+      "category": "Test cat",
+      "price": 789
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
